@@ -1,0 +1,14 @@
+{
+  "name": "eroom-lms-main",
+  "version": "1.0.0",
+  "description": "이룸편입 하이브리드 LMS - 편입 영어 문제은행 + AI 학습 분석 (E-ROOM Admissions LMS)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

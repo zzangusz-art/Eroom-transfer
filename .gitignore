@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+.env
+*.log
+.vscode/
+.idea/
+eroom-lms/
+
+# runtime shared state
+eroom_state.json
+eroom_state.json.tmp
+*.tmp
+data/
+
+.eroom_token
